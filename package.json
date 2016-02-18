@@ -1,0 +1,22 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Uses Weather Underground APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam8810/AWS-Lambda-Weather.git"
+  },
+  "author": "Adam Booth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam8810/AWS-Lambda-Weather/issues"
+  },
+  "homepage": "https://github.com/adam8810/AWS-Lambda-Weather#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
